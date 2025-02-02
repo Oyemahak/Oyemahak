@@ -16,11 +16,11 @@ Hey there! I’m a **UX Engineer & Designer** based in **Toronto, Canada**, with
 Always open to freelancing projects and collaborations! Feel free to check out my work:
 
 - [**Explore My UX Portfolio**](https://mahakpatel.wixstudio.com/portfolio)  
-- [**Explore My Markdown Portfolio**](https://github.com/Oyemahak/Markdown-Portfolio)
+- [**Explore My Markdown Portfolio**](https://oyemahak.github.io/markdown-portfolio/)
 
 ## 🎮 Let’s Play!  
 
-Bored of the daily grind? I’ve got something fun for you! Check out my **Playground Repo**, where you can install **TouchMe.html** and have some fun. I’ll be adding more games soon, so keep coming back for more!
+Bored of the daily grind? I’ve got something fun for you! Check out my **Playground Repo**, where you can download **TouchMe.html** and have some fun. I’ll be adding more games soon, so keep coming back for more!
 
 - [**Play Now**](https://github.com/Oyemahak/Playground/blob/main/TouchMe.html)
 
