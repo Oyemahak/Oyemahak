@@ -24,7 +24,7 @@ I'm **Mahak Patel**, a **UX Engineer & Designer** passionate about building bran
 
 ---
 
-## 💡 Freelancing & Portfolio  
+## 💡 Portfolio  
 
 I'm **always open to freelancing projects** and collaborations!  
 
