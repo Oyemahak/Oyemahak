@@ -11,9 +11,6 @@ Hey there! I’m a **UX Engineer & Designer** based in **Toronto, Canada**, with
   - Postgraduate in **User Experience Design** – **Humber College**  
   - Currently studying **Web Development** at Humber College to expand my technical expertise.
 
-- **Learning & Growth**  
-  Constantly exploring new web technologies and preparing for industry opportunities.
-
 ## 📂 Portfolio  
 
 Always open to freelancing projects and collaborations! Feel free to check out my work:
