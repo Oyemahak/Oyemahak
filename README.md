@@ -1,15 +1,15 @@
-# 🌟 Mahak Patel | UX Engineer  
+# Mahak Patel
 
-> **"Designing experiences that bridge creativity & technology."**  
+> **"Designing experiences that bridge creativity & technology."**
 
 ---
 
-## 👋 Welcome!  
+## 👋 Hi there!  
 I'm **Mahak Patel**, a **UX Engineer & Designer** passionate about building brands and creating seamless digital experiences. Based in **Toronto, Canada**, I specialize in blending **user-centered design with front-end development** to craft intuitive and engaging solutions.  
 
 ---
 
-## 🏢 Professional Background  
+## Professional Background  
 
 📌 **Ex-Accenture Employee**  
 ✔️ 3 years of experience working with **Citi Bank** through Accenture.  
@@ -24,7 +24,7 @@ I'm **Mahak Patel**, a **UX Engineer & Designer** passionate about building bran
 
 ---
 
-## 💡 Portfolio  
+## Portfolio  
 
 I'm **always open to freelancing projects** and collaborations!  
 
@@ -32,11 +32,19 @@ I'm **always open to freelancing projects** and collaborations!
 
 ---
 
-## 🎯 Fun Facts  
+## Fun Facts  
 
 🎾 **Professional Badminton Player** – A corporate athlete balancing design & sports.  
 🏕️ **Adventure Lover** – Passionate about **trekking & camping** in the wild.  
 
 ---
 
-Thanks for stopping by! 😊  
+## 🎮 Bored of your daily routine?  
+
+I get it, sometimes life needs a little more *fun*. So, why not explore my **Playground Repo**? 😎 You can install **TouchMe.html** on your local and play around! I’ll keep adding more games, so stay tuned! 🎉  
+
+🔗 **Click the play button and join the fun:** [**Play Now**](https://github.com/Oyemahak/Playground/blob/main/TouchMe.html)
+
+---
+
+Thanks for stopping by! 😊
