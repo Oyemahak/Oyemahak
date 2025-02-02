@@ -15,8 +15,8 @@ Hey there! I’m a **UX Engineer & Designer** based in **Toronto, Canada**, with
 
 Always open to freelancing projects and collaborations! Feel free to check out my work:
 
-- [**Explore My UX Portfolio**](https://mahakpatel.wixstudio.com/portfolio)  
-- [**Explore My Markdown Portfolio**](https://oyemahak.github.io/markdown-portfolio/)
+- [**UX Portfolio**](https://mahakpatel.wixstudio.com/portfolio)  
+- [**Markdown Portfolio**](https://oyemahak.github.io/markdown-portfolio/)
 
 ## 🎮 Let’s Play!  
 
