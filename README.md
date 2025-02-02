@@ -1,50 +1,49 @@
-# Mahak Patel
-
-> **"Designing experiences that bridge creativity & technology."**
-
----
-
-## 👋 Hi there!  
-I'm **Mahak Patel**, a **UX Engineer & Designer** passionate about building brands and creating seamless digital experiences. Based in **Toronto, Canada**, I specialize in blending **user-centered design with front-end development** to craft intuitive and engaging solutions.  
+# Mahak Patel  
+**UX Engineer & Designer**  
+_"Designing experiences that bridge creativity & technology."_
 
 ---
 
-## Professional Background  
-
-📌 **Ex-Accenture Employee**  
-✔️ 3 years of experience working with **Citi Bank** through Accenture.  
-
-📌 **Education**  
-✔️ Postgraduate in **User Experience Design** – **Humber College**  
-✔️ Currently studying **Web Development** at Humber to expand my technical expertise.  
-
-📌 **Learning & Growth**  
-✔️ Exploring web development beyond my coursework.  
-✔️ Strengthening my fundamentals & preparing for industry opportunities.  
+## 👋 About Me  
+Hey there! I’m a **UX Engineer & Designer** based in **Toronto, Canada**, with a passion for creating intuitive and engaging digital experiences. I specialize in blending **user-centered design with front-end development**, ensuring both creativity and technology come together seamlessly.
 
 ---
 
-## Portfolio  
+## 🛠️ Professional Background
 
-I'm **always open to freelancing projects** and collaborations!  
+- **Ex-Accenture Employee**  
+  Worked with **Citi Bank** through Accenture for 3 years.
 
-🔗 **Explore my work here:** [**Portfolio**](https://mahakpatel.wixstudio.com/portfolio)  
+- **Education**  
+  - Postgraduate in **User Experience Design** – **Humber College**  
+  - Currently studying **Web Development** at Humber College to expand my technical expertise.
 
----
-
-## Fun Facts  
-
-🎾 **Professional Badminton Player** – A corporate athlete balancing design & sports.  
-🏕️ **Adventure Lover** – Passionate about **trekking & camping** in the wild.  
-
----
-
-## 🎮 Bored of your daily routine?  
-
-I get it, sometimes life needs a little more *fun*. So, why not explore my **Playground Repo**? 😎 You can install **TouchMe.html** on your local and play around! I’ll keep adding more games, so stay tuned! 🎉  
-
-🔗 **Click the play button and join the fun:** [**Play Now**](https://github.com/Oyemahak/Playground/blob/main/TouchMe.html)
+- **Learning & Growth**  
+  Constantly exploring new web technologies and preparing for industry opportunities.
 
 ---
 
-Thanks for stopping by! 😊
+## 📂 Portfolio  
+
+Always open to freelancing projects and collaborations! Feel free to check out my work:
+
+🔗 [**Explore My Portfolio**](https://mahakpatel.wixstudio.com/portfolio)
+
+---
+
+## 🎮 Let’s Play!  
+
+Bored of the daily grind? I’ve got something fun for you! Check out my **Playground Repo**, where you can install **TouchMe.html** and have some fun. I’ll be adding more games soon, so keep coming back for more!
+
+🔗 [**Play Now**](https://github.com/Oyemahak/Playground/blob/main/TouchMe.html)
+
+---
+
+## 🌟 Fun Facts
+
+- **Professional Badminton Player** – Balancing design & sports like a pro!  
+- **Adventure Lover** – Trekking & camping in the wild whenever I get the chance.
+
+---
+
+Thanks for stopping by! Let’s create something amazing together! 😎  
