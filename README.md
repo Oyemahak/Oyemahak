@@ -9,7 +9,7 @@ Hey there! I’m a **UX Engineer & Designer** based in **Toronto, Canada**, with
 
 ---
 
-## 🛠️ Professional Background
+## 💼 Professional Background
 
 - **Ex-Accenture Employee**  
   Worked with **Citi Bank** through Accenture for 3 years.
@@ -27,7 +27,8 @@ Hey there! I’m a **UX Engineer & Designer** based in **Toronto, Canada**, with
 
 Always open to freelancing projects and collaborations! Feel free to check out my work:
 
-🔗 [**Explore My Portfolio**](https://mahakpatel.wixstudio.com/portfolio)
+🔗 [**Explore My UX Portfolio**](https://mahakpatel.wixstudio.com/portfolio)  
+🔗 [**Explore My Markdown Portfolio**](https://github.com/Oyemahak/Markdown-Portfolio)
 
 ---
 
@@ -41,9 +42,9 @@ Bored of the daily grind? I’ve got something fun for you! Check out my **Playg
 
 ## 🌟 Fun Facts
 
-- **Professional Badminton Player** – Balancing design & sports like a pro!  
-- **Adventure Lover** – Trekking & camping in the wild whenever I get the chance.
+- **🏸 Professional Badminton Player** – Balancing design & sports like a pro!  
+- **🏕️ Adventure Lover** – Trekking & camping in the wild whenever I get the chance.
 
 ---
 
-Thanks for stopping by! Let’s create something amazing together! 😎  
+Thanks for stopping by! Let’s create something amazing together! 😎
