@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**Oyemahak/Oyemahak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Mahak Patel**, a **designer & UX engineer** focused on building brands and crafting seamless digital experiences. Currently based in **Toronto, Canada**, I bring a unique blend of design, development, and strategic thinking to my work.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--  
+**Oyemahak/Oyemahak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 -->
+
+### 🌟 About Me  
+- 💼 **Ex-Accenture Employee** – 3 years of experience working with **Citi Bank** through Accenture.  
+- 🎓 **Education** – Postgraduate in **User Experience Design** from **Humber College**. Currently diving into **Web Development** at Humber to expand my technical skills.  
+- 🌱 **Learning & Growth** – Exploring web development beyond my program, strengthening fundamentals, and preparing for industry opportunities.  
+- 🎯 **Freelancing & Collaboration** – Always open to freelance projects! Check out my **[portfolio](https://mahakpatel.wixstudio.com/portfolio)**.  
+- 🏆 **Beyond Work** – A corporate athlete at heart! I enjoy trekking, camping, and I’m a **professional badminton player**.  
+
+Thanks for stopping by! 😊  
