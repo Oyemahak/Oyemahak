@@ -29,4 +29,4 @@ Bored of the daily grind? I’ve got something fun for you! Check out my **Playg
 - **🏸 Corporate Athlete – Smashing shuttlecocks and deadlines with equal precision!
 - **🥾 Hiker & Adventure Lover** – Always up for trekking, camping, and the perfect workation—blending work with wanderlust!
 
-Thanks for stopping by! Let’s create something amazing together! 😎
+Thanks for stopping by! ☺️
