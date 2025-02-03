@@ -26,7 +26,7 @@ Bored of the daily grind? I’ve got something fun for you! Check out my **Playg
 
 ## 🌟 Fun Facts
 
-- **🏸 Professional Badminton Player** – Balancing design & sports like a pro!  
-- **🏕️ Adventure Lover** – Trekking & camping in the wild whenever I get the chance.
+- **🏸 Corporate Athlete – Smashing shuttlecocks and deadlines with equal precision!
+- **🥾 Hiker & Adventure Lover** – Always up for trekking, camping, and the perfect workation—blending work with wanderlust!
 
 Thanks for stopping by! Let’s create something amazing together! 😎
