@@ -2,6 +2,18 @@
 
 Hey there! I’m a **UX Engineer & Designer** based in **Toronto, Canada**, with a passion for creating intuitive and engaging digital experiences. I specialize in blending **user-centered design with front-end development**, ensuring both creativity and technology come together seamlessly.
 
+## Technical Skills
+![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
+![C++](https://img.shields.io/badge/-C++-000?&logo=Cplusplus)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql)
+![Vue.JS](https://img.shields.io/badge/-VueJs-000?&logo=vuedotjs)
+![Node.JS](https://img.shields.io/badge/-NodeJs-000?&logo=nodedotjs)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Google Cloud Platform](https://img.shields.io/badge/-GoogleCloudPlatform-000?&logo=googlecloud)
+
 ## 💼 Professional Background
 
 - **Ex-Accenture Employee**  
