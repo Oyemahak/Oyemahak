@@ -12,7 +12,6 @@ Hey there! I’m a **UX Engineer & Designer** based in **Toronto, Canada**, with
 ![Vue.JS](https://img.shields.io/badge/-VueJs-000?&logo=vuedotjs)
 ![Node.JS](https://img.shields.io/badge/-NodeJs-000?&logo=nodedotjs)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Google Cloud Platform](https://img.shields.io/badge/-GoogleCloudPlatform-000?&logo=googlecloud)
 
 ## 💼 Professional Background
 
