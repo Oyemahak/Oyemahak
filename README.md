@@ -2,7 +2,7 @@
 
 Hey there! I’m a **UX Engineer & Designer** based in **Toronto, Canada**, with a passion for creating intuitive and engaging digital experiences. I specialize in blending **user-centered design with front-end development**, ensuring both creativity and technology come together seamlessly.
 
-## Technical Skills
+## 💻 Technical Skills
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=Cplusplus)
