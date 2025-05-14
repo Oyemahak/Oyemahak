@@ -34,6 +34,7 @@ Always open to freelancing projects and collaborations! Feel free to check out m
 Bored of the daily grind? I’ve got something fun for you! Check out my **Playground Repo**, where you can download **TouchMe.html** and have some fun. I’ll be adding more games soon, so keep coming back for more!
 
 - [**Play Now**](https://github.com/Oyemahak/Playground/blob/main/TouchMe.html)
+- [**Generate QR Code with Fun**](https://oyemahak.github.io/QRonster/)
 
 ## 🌟 Fun Facts
 
