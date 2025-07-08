@@ -28,7 +28,7 @@ Always open to freelancing projects and collaborations! Feel free to check out m
 
 - [**UX Portfolio**](https://mahakpatel.wixstudio.com/portfolio)  
 - [**Markdown Portfolio**](https://oyemahak.github.io/markdown-portfolio/)
-- [**Web Developer DevFolio**](https://oyemahak.github.io/DevFolio/)
+- [**Web Developer DevFolio**](https://oyemahak.github.io/mahak/)
 
 ## 🎮 Let’s Play!  
 
